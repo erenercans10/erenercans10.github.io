@@ -1,0 +1,53 @@
+#container
+{
+    margin: auto;
+    width: 900px;
+    height: auto;
+    margin-top: 10px;
+}
+header
+{
+    width: 900px;
+    height: 200px;
+}
+nav
+{
+    margin-top: 10px;
+    width: 900px;
+    height: 20px;
+    margin-bottom: 5px;
+    background-color: rgba(6, 226, 90, 0.329);
+}
+nav ul
+{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+nav ul li
+{
+    float: left;
+}
+nav ul li a
+{
+   
+    margin-left: 180px;
+    text-decoration: none;
+    display: block;
+    font-size: 15pt;
+    line-height: 16px;
+    font-weight: bold;
+    color:rgb(197, 218, 8);
+    text-align: center;
+    border-bottom: 5px solid #0697aa;
+}
+nav ul li a:hover
+{
+    background-color: goldenrod;
+    border-top:5px solid green:
+}
+footer
+{
+    text-align: center;
+    background-color: GREEN;
+}

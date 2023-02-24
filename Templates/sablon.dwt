@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../stil1.css">
+    <!-- TemplateBeginEditable name="doctitle" -->
+        <title>Tunç Tarım</title>
+        <!-- TemplateEndEditable -->
+        <!-- TemplateBeginEditable name="head" -->
+        <!-- TemplateEndEditable -->
+    </head>
+    <body>
+        <div id="container">
+            <header><img src="../banner.jpg"></header>
+            <nav>
+                <ul>
+                    <li><a href="#">İletişim</a></li>
+                    <li><a href="#">AnaSayfa</a></li>
+                    <li><a href="#">Hakkımızda</a></li>
+                </ul>
+            </nav>
+            <section>
+                <article><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></article>
+            </section>
+        </div>
+    </body>
+</html>
